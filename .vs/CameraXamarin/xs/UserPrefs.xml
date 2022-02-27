@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{44A3DEF9-7AF8-4CE6-812E-15A491191496}|Default">
+  <MonoDevelop.Ide.ItemProperties.CameraXamarin.Android AndroidDesignerPreferredTheme="MainTheme" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CameraXamarin/MainPage.xaml.cs">
+    <Files>
+      <File FileName="CameraXamarin/ViewModel/VMMainPage.cs" Line="28" Column="62" />
+      <File FileName="CameraXamarin/MainPage.xaml" Line="19" Column="38" />
+      <File FileName="CameraXamarin/MainPage.xaml.cs" Line="16" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CameraXamarin" expanded="True">
+            <Node name="CameraXamarin" expanded="True">
+              <Node name="ViewModel" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CameraXamarin.iOS FirstBuild="True" />
+</Properties>

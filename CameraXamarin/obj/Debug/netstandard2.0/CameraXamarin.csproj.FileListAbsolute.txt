@@ -1,0 +1,15 @@
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/bin/Debug/netstandard2.0/CameraXamarin.deps.json
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/bin/Debug/netstandard2.0/CameraXamarin.dll
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/bin/Debug/netstandard2.0/ref/CameraXamarin.dll
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/bin/Debug/netstandard2.0/CameraXamarin.pdb
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/obj/Debug/netstandard2.0/CameraXamarin.csproj.AssemblyReference.cache
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/obj/Debug/netstandard2.0/CameraXamarin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/obj/Debug/netstandard2.0/CameraXamarin.AssemblyInfoInputs.cache
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/obj/Debug/netstandard2.0/CameraXamarin.AssemblyInfo.cs
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/obj/Debug/netstandard2.0/CameraXamarin.csproj.CoreCompileInputs.cache
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/obj/Debug/netstandard2.0/CameraXamarin.dll
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/obj/Debug/netstandard2.0/ref/CameraXamarin.dll
+/Users/stevengalarza/Projects/Xamarin/CameraXamarin/CameraXamarin/obj/Debug/netstandard2.0/CameraXamarin.pdb
